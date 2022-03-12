@@ -1,19 +1,19 @@
 # Snake Game
 
-Snake game made with Python and Turtle module
+_Snake game made with Python and Turtle module_
 
 ## Starting 🚀
 
-Clone this repository and open it with some text editor
+_Clone this repository and open it with some text editor_
 
 ### Pre-requirements 📋
 
-To run project just need to have Python installed, recommended version 3 or higher
+_To run project just need to have Python installed, recommended version 3 or higher_
 
 ### Installation 🔧
 
-Run the main.py file in the command console
+_Run the main.py file in the command console_
 
-### Author
+## Author ✒️
 
-* **Daniel Nieto** - [villanuevand](https://github.com/daniel1775)
+* **Daniel Nieto** - [daniel1775](https://github.com/daniel1775)
